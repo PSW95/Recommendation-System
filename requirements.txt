@@ -1,7 +1,6 @@
 streamlit
 pandas
-import difflib
-import time
-TfidfVectorizer
-cosine_similarity
+streamlit
+pandas
+scikit-learn
 
